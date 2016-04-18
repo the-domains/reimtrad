@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[reimtrad]]></title>
         <description><![CDATA[reimtrad]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/reimtrad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 18:46:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Apr 2016 19:03:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/reimtrad/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WHAT IS CALLIGRAFFITI?]]></title>
+            <description><![CDATA[<article><h1>WHAT IS CALLIGRAFFITI?</h1><p>THE SIMPLE ANSWER:</p></article>]]></description>
+            <link>https://thegrid.ai/reimtrad/what-is-calligraffiti/index.html</link>
+            <guid isPermaLink="false">9355cea7-5922-45cd-a3e0-96230a0fdecd</guid>
+            <pubDate>Mon, 18 Apr 2016 19:03:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>reimagine tradition</p>]]></description>
-            <link>undefinedreimagine-tradition/index.html</link>
+            <link>https://thegrid.ai/reimtrad/reimagine-tradition/index.html</link>
             <guid isPermaLink="false">f1a15ab7-bbf3-410c-bcce-93e1b6b191ba</guid>
             <pubDate>Mon, 18 Apr 2016 18:46:40 GMT</pubDate>
         </item>
