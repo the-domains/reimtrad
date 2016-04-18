@@ -1,0 +1,28 @@
+name: reimtrad
+favicon: null
+layout_spectrum: 0.8508284061681479
+typography_spectrum: 0.21993376268073916
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.48050201032310724
+  lightness: 0.46230240259319544
+  saturation: 0.32064252183772624
+  rhythmicContrast: 0.13899672171100974
+purpose: []
